@@ -1,0 +1,5 @@
+[user]
+	email = tie-fighter@program
+	name = tie-fighter
+
+# git config --local include.path ../.gitconfig
